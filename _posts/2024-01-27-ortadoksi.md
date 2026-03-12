@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ortadoksî
+title: "Ortadoksî"
 category: article
 description: İnanç eksenli düşünmenin temel problemleri vardır: Bir, baskın bir ortodoks hissin insana, her şeyi muhafaza etmeye doğru kök salmış bir sağduyu hediye etmesi; iki, sadakat gösterilmesi gereken ilklerin doğru olduğundan emin olmaktaki naiflik.
 ---

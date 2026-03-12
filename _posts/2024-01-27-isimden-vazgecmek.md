@@ -1,6 +1,6 @@
 ---
 layout: post
-title: İsimden Vazgeçmek
+title: "İsimden Vazgeçmek"
 category: article
 description: Başka türlü bir bilmeyi düşünüyorum, bu şu: Bilmek, hani öylesine, ama en baştan güzel bir söylemeye şartlanmışçasına koyulduğumuz bir sanat için.
 ---

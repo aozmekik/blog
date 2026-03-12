@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Saray, Tapınak ve Çarşı
+title: "Saray, Tapınak ve Çarşı"
 category: article
 description: Her araştırma, genelgeçerliğin soruşturmaları bile, sonradan kaybolmayacak bir bilme hiçbir işine yaramayacağı için, varlıktaki değişmez olan cevhere yönelik bir araştırmadır.
 ---

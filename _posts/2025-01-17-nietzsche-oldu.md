@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nietzsche Öldü
+title: "Nietzsche Öldü"
 category: article
 description: Medyasal bir kafa, her şeyi başkalarının gözünden görür. Kendini bile, aslında özellikle kendini.
 ---

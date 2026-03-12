@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Raison d'etre
+title: "Raison d'etre"
 category: article
 description: Kutsal olandan daha çok nefret ettim.
 ---

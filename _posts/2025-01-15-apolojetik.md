@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apolojetik
+title: "Apolojetik"
 category: article
 description: Nihilizm ve onun herhangi bir türevi hakkında bir şeyler yazmış olan her düşünür, getirdikleri dinlerin hainidir.
 ---
